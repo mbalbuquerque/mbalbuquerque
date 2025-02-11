@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marcelo B</h1>
 <h3 align="center">Acadêmico em Análise e Desenvolvimento de Sistema</h3>
 
+**estudante**
+__ADS__
+
+*faculdade senac*
+
+![pincher](https://media.gettyimages.com/id/661905012/pt/foto/miniature-pinscher-dog-portrait.jpg?s=612x612&w=gi&k=20&c=zfXq-1VS_tfoMhaVTbVkNTTUBz72-HCf0l0_sRZfPOQ=)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalbuquerque&label=Profile%20views&color=0e75b6&style=flat" alt="mbalbuquerque" /> </p>
 
 <h3 align="left">Connect with me:</h3>
