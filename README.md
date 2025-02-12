@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Marcelo B</h1>
+<h1 align="center">Hi 👋, I'm Marcelo Barbosa</h1>
 <h3 align="center">Acadêmico em Análise e Desenvolvimento de Sistema</h3>
 
 **estudante**
 __ADS__
 
-*faculdade senac*
+*FACULDADE SENAC*
 
 ![pincher](https://media.licdn.com/dms/image/D5612AQHVmDutmXT3BA/article-cover_image-shrink_600_2000/0/1679853021631?e=2147483647&v=beta&t=uwg6vJl8VQaeKtKT2YckG0kUWEnUlkmO4BWW95ZrvB4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalbuquerque&label=Profile%20views&color=0e75b6&style=flat" alt="mbalbuquerque" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Educação, Cultura, Saúde, Comunicação, Esportes tudo isso dentro da tecnologia</h3>
 <p align="left">
 </p>
 
