@@ -6,7 +6,7 @@ __ADS__
 
 *faculdade senac*
 
-![pincher](https://media.gettyimages.com/id/661905012/pt/foto/miniature-pinscher-dog-portrait.jpg?s=612x612&w=gi&k=20&c=zfXq-1VS_tfoMhaVTbVkNTTUBz72-HCf0l0_sRZfPOQ=)
+![pincher](https://media.licdn.com/dms/image/D5612AQHVmDutmXT3BA/article-cover_image-shrink_600_2000/0/1679853021631?e=2147483647&v=beta&t=uwg6vJl8VQaeKtKT2YckG0kUWEnUlkmO4BWW95ZrvB4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbalbuquerque&label=Profile%20views&color=0e75b6&style=flat" alt="mbalbuquerque" /> </p>
 
