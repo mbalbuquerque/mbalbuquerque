@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Marcelo Barbosa</h1>
-<h3 align="center">Acadêmico em Análise e Desenvolvimento de Sistema</h3>
+<h1 align="center">Olá pessoal 👋, eu sou Marcelo Barbosa</h1>
+<h2 align="center">Acadêmico em Análise e Desenvolvimento de Sistema</h2>
 
-**estudante**
-__ADS__
+Cursando Análise e Desenvolvimento de Sistemas na Faculdade SENAC PE, Bacharel em Ciências Contábeis concluído em 2015 pela Faculdade Joaquim Nabuco, 
+MBA em Controladoria e Administação Financeira concluído em 2017 na Faculdade ESUDA
 
-*FACULDADE SENAC*
 
 ![pincher](https://media.licdn.com/dms/image/D5612AQHVmDutmXT3BA/article-cover_image-shrink_600_2000/0/1679853021631?e=2147483647&v=beta&t=uwg6vJl8VQaeKtKT2YckG0kUWEnUlkmO4BWW95ZrvB4)
 
@@ -13,6 +12,8 @@ __ADS__
 <h3 align="left">Educação, Cultura, Saúde, Comunicação, Esportes tudo isso dentro da tecnologia</h3>
 <p align="left">
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
